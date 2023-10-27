@@ -59,13 +59,13 @@ Below is a list of the different resources that can be found in this organizatio
 - [Raspberry PI](https://github.com/atgroup09/examples-raspberry-pi)
   - embedded and user control programs
   - RPI Pico (`ARM Cortex-M0+ 32-bit` `Dual-Core` `micro-Python SDK`)
-    - IDE Thonny
-    - source code (`Python` `Multi-Thread`)
+  - IDE Thonny
+  - source code (`Python` `Multi-Thread`)
 
 - [ESP8266](https://github.com/atgroup09/examples-esp8266)
   - embedded and user control programs
   - ESP8266 (`ESP8266 ESP-01 Ai Thinker Platform` `WiFi-UART Transceiver` `AT SDK`)
-    - source code (`AT` `Python`)
+  - source code (`AT` `Python`)
 
 - [TMC2130](https://github.com/atgroup09/examples-tmc2130)
   - embedded and user control programs

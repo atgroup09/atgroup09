@@ -11,7 +11,7 @@ Below is a list of the different resources that can be found in this organizatio
 **Documentation**
 
 - [Knowledge Base](https://github.com/atgroup09/knowledge-base)
-  - basic documentation
+  - basic documentation, manuals
 
 **Projects**
 
@@ -66,6 +66,12 @@ Below is a list of the different resources that can be found in this organizatio
   - embedded and user control programs
   - ESP8266 (`ESP8266 ESP-01 Ai Thinker Platform` `WiFi-UART Transceiver` `AT SDK`)
     - source code (`AT` `Python`)
+
+- [TMC2130](https://github.com/atgroup09/examples-tmc2130)
+  - embedded and user control programs
+  - TMC2130 (`TMC2130 v3.0 BigTreeTech Platform` `Stepper motor driver chip` `SPI interface`)
+  - Arduino (`Arduino Uno Platform` `Arduino 1.8.18 SDK`)
+  - source code (`C` `C++`)
 
 - [Python](https://github.com/atgroup09/examples-python)
   - platform-independent functions

@@ -42,11 +42,11 @@ Below is a list of the different resources that can be found in this organizatio
   - IDE Beremiz YAPLC (`IEC-61131-3`)
   - source code (`ST` `LD` `FBD` `SFC`)
  
-  - [EasyBuilder](https://github.com/atgroup09/examples-easybuilder)
-    - HMI
-    - Panel (`Weintek MT8071iE`)
-    - IDE EasyBulder Pro, 8000
-    - source code
+- [EasyBuilder](https://github.com/atgroup09/examples-easybuilder)
+  - HMI
+  - Panel (`Weintek MT8071iE`)
+  - IDE EasyBulder Pro, 8000
+  - source code
 
 - [STM32](https://github.com/atgroup09/examples-stm32)
   - embedded control programs

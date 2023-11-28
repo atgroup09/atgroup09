@@ -2,7 +2,7 @@
 
 This organization contains documentation, software and various examples.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atgroup09&layout=compact)](https://github.com/atgroup09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atgroup09)](https://github.com/atgroup09/github-readme-stats)
 
 ## Resources
 

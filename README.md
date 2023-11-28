@@ -16,7 +16,7 @@ Below is a list of the different resources that can be found in this organizatio
 **Projects**
 
 - [WebSocket SCADA server](https://github.com/atgroup09/websocket-scada-server)
-  - data logger
+  - data logger (+ emulator)
   - source code (`C` `C++` `Qt5`)
   - manuals, guides, datasheets
  

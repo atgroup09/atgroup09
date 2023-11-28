@@ -4,9 +4,7 @@ This organization contains documentation, software and various examples.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atgroup09&langs_count=10&layout=compact)](https://github.com/atgroup09)
 
-## Resources
-
-Below is a list of the different resources that can be found in this organization:
+## Repositories
 
 **Documentation**
 

@@ -15,9 +15,14 @@ Below is a list of the different resources that can be found in this organizatio
 
 **Projects**
 
-- [WebSocket SCADA](https://github.com/atgroup09/websocket-scada)
-  - data logger and web-interface (HMI)
-  - source code (`C` `C++` `Qt5` `HTML` `CSS` `JavaScript` `jQuery` `jQueryMobile` `DataTables` `FlotCharts`)
+- [WebSocket SCADA server](https://github.com/atgroup09/websocket-scada-server)
+  - data logger
+  - source code (`C` `C++` `Qt5`)
+  - manuals, guides, datasheets
+ 
+- [WebSocket SCADA client](https://github.com/atgroup09/websocket-scada-client)
+  - web-HMI
+  - source code (`HTML` `CSS` `JavaScript` `jQuery` `jQueryMobile` `DataTables` `FlotCharts`)
   - manuals, guides, datasheets
 
 - [PLC107](https://github.com/atgroup09/plc107)

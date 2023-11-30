@@ -50,7 +50,7 @@ This organization contains documentation, software and various examples.
   - IDE Beremiz YAPLC (`IEC-61131-3`)
   - source code (`ST` `LD` `FBD` `SFC`)
  
-- [WebSocket Client / SCADA](https://github.com/atgroup09/examples-wsclient-scada)
+- [WebSocket Client / SCADA](https://github.com/atgroup09/examples-websocket-scada-client)
   - web-HMI
   - source code (`HTML` `CSS` `JavaScript` `jQuery` `jQueryMobile` `DataTables` `FlotCharts`)
  

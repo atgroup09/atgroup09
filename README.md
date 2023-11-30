@@ -13,17 +13,17 @@ This organization contains documentation, software and various examples.
 
 **Projects**
 
-- [WebSocket SCADA server](https://github.com/atgroup09/websocket-scada-server)
+- [WebSocket Server / Logger](https://github.com/atgroup09/websocket-scada-server)
   - data logger (+ emulator)
   - source code (`C` `C++` `Qt5`)
   - manuals, guides, datasheets
 
-- [WebSocket SCADA repeater](https://github.com/atgroup09/websocket-scada-repeater)
+- [WebSocket Server / Repeater](https://github.com/atgroup09/websocket-scada-repeater)
   - data repeater
   - source code (`C` `C++` `Qt5`)
   - manuals, guides, datasheets
  
-- [WebSocket SCADA client](https://github.com/atgroup09/websocket-scada-client)
+- [WebSocket Client / SCADA](https://github.com/atgroup09/websocket-scada-client)
   - web-HMI
   - source code (`HTML` `CSS` `JavaScript` `jQuery` `jQueryMobile` `DataTables` `FlotCharts`)
   - manuals, guides, datasheets

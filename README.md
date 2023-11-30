@@ -17,6 +17,11 @@ This organization contains documentation, software and various examples.
   - data logger (+ emulator)
   - source code (`C` `C++` `Qt5`)
   - manuals, guides, datasheets
+
+- [WebSocket SCADA repeater](https://github.com/atgroup09/websocket-scada-repeater)
+  - data logger repeater
+  - source code (`C` `C++` `Qt5`)
+  - manuals, guides, datasheets
  
 - [WebSocket SCADA client](https://github.com/atgroup09/websocket-scada-client)
   - web-HMI

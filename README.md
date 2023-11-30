@@ -19,7 +19,7 @@ This organization contains documentation, software and various examples.
   - manuals, guides, datasheets
 
 - [WebSocket SCADA repeater](https://github.com/atgroup09/websocket-scada-repeater)
-  - data logger repeater
+  - data repeater
   - source code (`C` `C++` `Qt5`)
   - manuals, guides, datasheets
  

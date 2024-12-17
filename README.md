@@ -91,6 +91,6 @@ This organization contains documentation, software and various examples.
   - Arduino (`Arduino Uno Platform` `Arduino 1.8.18 SDK`)
   - source code (`C` `C++`)
 
-- [Python](https://github.com/atgroup09/examples-python)
-  - platform-independent functions
-  - source code (`Python`)
+- [Python](https://github.com/atgroup09/examples)
+  - the source code of some algorithms, examples, and templates
+  - source code (`C` `C++` `Python` `BAT` `XLS`)
